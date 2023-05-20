@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirti2704&label=Profile%20views&color=0e75b6&style=flat" alt="kirti2704" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirti2704" alt="kirti2704" /></a> </p>
-
 - 🔭 I’m currently working on **Aviation Industry Analysis**
 
 - 🌱 I’m currently learning **Microsoft Power Platform**
